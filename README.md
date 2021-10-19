@@ -3,6 +3,7 @@
 This repository includes sample iOS, iOS-Swift, watchOS, tvOS and macOS projects to demonstrate how to use Countly iOS SDK. It can be used to: 
 
 * Send a sample push notification
+* test
 * Generate events with values and segmentations with count, sum, duration
 * Send a sample user profile
 * Send a custom user property
